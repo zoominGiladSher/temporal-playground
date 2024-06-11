@@ -5,6 +5,8 @@ It covers some basic and advanced features of Temporal.io.
 ## Prerequisites
 - Go >1.22
 - [Temporal.io Server](https://learn.temporal.io/getting_started/go/dev_environment/#set-up-a-local-temporal-service-for-development-with-temporal-cli)
+*OR*
+- Docker
 
 ## Getting Started
 1. Clone the repository
